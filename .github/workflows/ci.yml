@@ -1,4 +1,4 @@
-runame: ci-test
+name: ci-test
 
 on:
   push:
